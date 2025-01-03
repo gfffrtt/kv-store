@@ -26,3 +26,10 @@ make run
 
 To connect and performance operations is simple, install one of our SDKs for
 your favorite language and start using it.
+
+## TODO List
+
+- [ ] Make the data persistent (currently it is stored in memory) to support restarts
+- [ ] Make the KV Store distributed
+- [ ] Create SDKs
+- [ ] Add examples to the documentation
